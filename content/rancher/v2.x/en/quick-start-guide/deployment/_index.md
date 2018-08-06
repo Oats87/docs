@@ -5,6 +5,8 @@ weight: 100
 
 The following are the current guides for provisioning Rancher Server and a cluster:
 
+- [Amazon AWS Quick Start](./amazon-aws-qs) - We provide you with an Amazon-specific Terraform configuration file that completely automates the set up of the Rancher Server and registers a cluster for you to get started with.
+
 - [DigitalOcean Quick Start](./digital-ocean-qs) - We provide you with a Terraform configuration file that completely automates the set up of the Rancher Server and registers a cluster for you to get started with.
 
 - [Vagrant Quick Start](./quickstart-vagrant) - We provide you with a Vagrant configuration that again completely automates the set up of the Rancher Server and registers a cluster for you to get started with.
